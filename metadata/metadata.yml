@@ -1,6 +1,8 @@
 metadata_version: 1
-name: Projected Gradient Method (PGM) for the Achievable Rate Optimization in RIS-aided MIMO Systems
-description: Here, we present the code for the achievable rate optimization in RIS-aided MIMO systems. This optimization is based on the projected gradient method (PGM).
+name: Projected Gradient Method (PGM) for the Achievable Rate Optimization in RIS-aided
+  MIMO Systems
+description: Here, we present the code for the achievable rate optimization in RIS-aided
+  MIMO systems. This optimization is based on the projected gradient method (PGM).
 authors:
 - name: Nemanja Stefan Perovic
   affiliations:
